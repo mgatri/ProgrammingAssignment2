@@ -10,7 +10,7 @@
 #   2. The second is the casheSolve function. This function computes the inverse
 #   of the special matrix returned by makeCasheMatrix.
 #   If the inverse has already been calculated and the matrix has not changed, 
-#   then the casheSolve should reteave the inverse from the cashe.
+#   then the casheSolve should reteave the inverse from the  cashe.
 
 #############    1. The makeCasheMatrix function
 
